@@ -211,7 +211,7 @@ body {
         color: var(--cor-primaria-texto);
         font-size: 22px;
         margin: 120px 0px 0px -20px;
-        width: 16em;
+        width: 16.9em;
         padding: 50px 0 0 30px;
     }
 
@@ -226,7 +226,7 @@ body {
     .apresentacao__texto{
         padding: 40px 0px 40px 10px;
         width: 21em;
-        font-size: 16.2px;
+        font-size: 16.5px;
         padding-bottom: 70px;
     }
 
