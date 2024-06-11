@@ -210,11 +210,10 @@ body {
     .apresentacao__nome{
         color: var(--cor-primaria-texto);
         font-size: 22px;
-        margin: 120px 0px 0px -20px;
+        margin: 120px 0px 0px -18px;
         width: 16.9em;
         padding: 50px 0 0 30px;
     }
-
 
     .apresentacao__resumo {
         flex-direction: column-reverse;
@@ -224,7 +223,7 @@ body {
     }
 
     .apresentacao__texto{
-        padding: 40px 0px 40px 10px;
+        padding: 40px 0px 40px 13px;
         width: 21em;
         font-size: 16.5px;
         padding-bottom: 70px;
